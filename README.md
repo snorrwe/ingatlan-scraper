@@ -4,9 +4,11 @@
 
 ```
 pip install -r requirements.txt
-python main.py
 ```
 
-## Results
+## Usage
 
+```
+python main.py
+```
 Results are written to `results.csv`
